@@ -1,0 +1,15 @@
+
+.Top-heading {
+    display:grid;
+}
+
+/*Centres logo image*/
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.th1 {
+    grid-column: 1;
+}
