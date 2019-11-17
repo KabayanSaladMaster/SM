@@ -1,24 +1,14 @@
-@import url(w3.css);
 @import url(fontawesome/css/all.css);
+@import url(w3.css)
 
-.w3-myfont {
-  font-family: "Comic Sans MS", cursive, sans-serif !important;
+.google-font {
+  font-family: 'Trade Winds', cursive;
 }
 
-.Top-heading {
-  display:grid;
+.google-gloria {
+  font-family: 'Gloria Hallelujah', cursive;
 }
 
-#logo {
-  margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
-h1,h2,h3,h4 {
-  text-align: center;
-}
-
-ul {
+h1, h2, h3, h4 {
   text-align: center;
 }
