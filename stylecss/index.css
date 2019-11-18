@@ -1,14 +1,38 @@
 @import url(fontawesome/css/all.css);
 @import url(w3.css)
+@import url(https://fonts.googleapis.com/css?family=Muli:500&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Concert+One&display=swap)
 
-.google-font {
-  font-family: 'Trade Winds', cursive;
+
+/*Google fonts*/
+.google-indie {
+ font-family: 'Josefin Sans', sans-serif;
 }
 
-.google-gloria {
-  font-family: 'Gloria Hallelujah', cursive;
-}
 
+/* Centers Heading*/
 h1, h2, h3, h4 {
   text-align: center;
+}
+
+
+#Saladmaster_Logo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.list {
+  text-align: center;
+}
+.container > ul {
+  margin-top:40px;
+  margin-bottom: 40px; 
+}
+
+.Concert-white{
+  font-family: 'Concert One', cursive;
+  font-size: 20px;
+  color:rgb(0, 0, 0);
 }
